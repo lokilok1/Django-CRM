@@ -5,7 +5,6 @@ dataBase = mysql.connector.connect(
     host = 'localhost',
     user = 'rickyltwong',
     passwd = 'password'
-
 )
 
 # prepare a cursor object
